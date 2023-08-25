@@ -4,7 +4,7 @@
 <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif" align='center'/>
 
 # 💫 About Me:
-🌱 I’m currently learning Full Stack Web Development.<br><br>💬 Ask me about JavaScript, HTML, CSS, React, NodeJS, Express, mongoDB<br><br>📫 How to reach me vickypawar2609@gmail.com<br><br>⚡ Fun fact I am a Hodophile 🚶
+🌱 I’m  a frontend developer having almost a year of experience.<br><br>💬 Ask me about JavaScript, HTML, CSS, React, NodeJS, Express, mongoDB<br><br>📫 How to reach me vickypawar2609@gmail.com<br><br>⚡ Fun fact I am a Hodophile 🚶
 
 
 ## 🌐 Socials:
