@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vivek Pawar</h1>
-<h3 align="center">" A passionate web developer with almost a year of experience specializing in frontend development. Thriving on crafting reusable components and user-centric UIs to elevate overall user experience. Proficiency extends to backend technologies like Node.js, Express, and MongoDB. Eager to learn and contribute to organizational growth through innovative solutions and embracing new technologies. Let's collaborate and build something amazing together! 💻🚀"</h3>
 
 <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif" align='center'/>
 
 # 💫 About Me:
-🌱 I’m  a frontend developer having almost a year of experience.<br><br>💬 Ask me about JavaScript, HTML, CSS, React, NodeJS, Express, mongoDB<br><br>📫 How to reach me vickypawar2609@gmail.com<br><br>⚡ Fun fact I am a Hodophile 🚶
+🌱  A passionate web developer with almost a year of experience specializing in frontend development. Thriving on crafting reusable components and user-centric UIs to elevate overall user experience. Proficiency extends to backend technologies like Node.js, Express, and MongoDB. Eager to learn and contribute to organizational growth through innovative solutions and embracing new technologies. Let's collaborate and build something amazing together! 💻🚀<br><br>📫 How to reach me vickypawar2609@gmail.com<br><br>⚡ Fun fact I am a Hodophile 🚶
 
 
 ## 🌐 Socials:
