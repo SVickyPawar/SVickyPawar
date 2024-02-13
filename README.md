@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek Pawar</h1>
-<h3 align="center">"An enthusiastic web developer having passion for building websites. Self-motivated and curious, with a keen interest in building user centric products.No matter what hurdles & challenges,I personally challenge myself to get things done"</h3>
+<h3 align="center">" A passionate web developer with almost a year of experience specializing in frontend development. Thriving on crafting reusable components and user-centric UIs to elevate overall user experience. Proficiency extends to backend technologies like Node.js, Express, and MongoDB. Eager to learn and contribute to organizational growth through innovative solutions and embracing new technologies. Let's collaborate and build something amazing together! 💻🚀"</h3>
 
 <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif" align='center'/>
 
